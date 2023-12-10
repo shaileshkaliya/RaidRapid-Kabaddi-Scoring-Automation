@@ -6,10 +6,10 @@ tackle, raid, bonus, and super raid, while seamlessly storing match results in a
 1. Utilized C++ Object Oriented Programming principles for the implementation along with file reading, writing operations.
 2. Resulted in reducing score calculation time and winner declaration time up to 50%.
 
-- ## Screenshots
+## Screenshots
 
-- ![Screenshot Image](Screenshots/RapidRaid1.png)
+![Screenshot Image](Screenshots/RapidRaid1.png)
 
-- ![Screenshot Image](Screenshots/RapidRaid2.png)
+![Screenshot Image](Screenshots/RapidRaid2.png)
  
-- ![Screenshot Image](Screenshots/RapidRaid3.png)
+![Screenshot Image](Screenshots/RapidRaid3.png)
