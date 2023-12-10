@@ -8,8 +8,8 @@ tackle, raid, bonus, and super raid, while seamlessly storing match results in a
 
 ## Screenshots
 
-- ![Screenshot Image](Screenshots/RapidRaid 1.png)
+- ![Screenshot Image](Screenshots/RapidRaid1.png)
 
-- ![Screenshot Image](Screenshots/RapidRaid 2.png)
+- ![Screenshot Image](Screenshots/RapidRaid2.png)
  
-- ![Screenshot Image](Screenshots/RapidRaid 3.png)
+- ![Screenshot Image](Screenshots/RapidRaid3.png)
