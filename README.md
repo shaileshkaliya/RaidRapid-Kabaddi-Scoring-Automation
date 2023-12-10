@@ -8,7 +8,7 @@ tackle, raid, bonus, and super raid, while seamlessly storing match results in a
 
 ## Screenshots
 
-![Project Image](https://drive.google.com/uc?export=view&id=1TwCvcFj0rRMmrXrbsuEjrzHehDdir30i)
+![Output Screenshot](https://drive.google.com/uc?export=view&id=1TwCvcFj0rRMmrXrbsuEjrzHehDdir30i)
 
 ![Output Screenshot](https://drive.google.com/uc?export=view&id=1wAJ3p6f5TqeZEsMecXua5aLEkychy1AW)
 
