@@ -1,5 +1,5 @@
 
-# RaidRapid-Kabaddi-Scoring-Automation
+# RaidRapid-Kabaddi-Scoring-Digitilization
 
 Developed a streamlined Kabaddi Points Table System to modernize local league scoring, efficiently counting various point types such as
 tackle, raid, bonus, and super raid, while seamlessly storing match results in a file for enhanced management.
